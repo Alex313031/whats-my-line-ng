@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "dugite": "^1.86.0",
-    "superstring": "git+https://github.com/Alex313031/superstring-ng.git#9202502",
+    "superstring": "git+https://github.com/Alex313031/superstring-ng.git#3ba74c5",
     "what-the-diff": "^0.6.0"
   }
 }
